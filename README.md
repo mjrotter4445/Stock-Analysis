@@ -4,7 +4,7 @@ Performing analysis on Stock to uncover useful trends
 work in process Performing analysis on              data to uncover trends
 # xxx
 ## Overview of Project
-Analyze, Sort, & Organize              Data.  Use the data to help  
+Analyze, Sort, & Organize              Data.  Use the data to help Steve to help his parents.  
 ### Introduction
 Thank you for your time and trust in our firm to provide a valuable service.  The challenge of fundraising for a production must be a lot of work.   Our company has tools and information to help you navigate that course to success.   
 ### Purpose
