@@ -1,5 +1,5 @@
  # An Analysis of Stock
-Performing analysis on Kickstarter data to uncover useful trends
+Performing analysis on Stock to uncover useful trends
 # stock-analysis
 work in process Performing analysis on              data to uncover trends
 # xxx
