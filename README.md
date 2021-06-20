@@ -22,9 +22,8 @@ After code was refactored, I ran the stock analysis, to confirm that our stock a
 Please note: in the Resources folder you can find the pop-up messages for elapsed run time for refactored code.   These images are named 2017 run time.png and 2018 run time.png. 
 
 The end result was to look like this.    
-Insert screen the EXAMPLES PROVIDED.png  
 
-![Chart_ExamplesProvided](xxxx)  
+![Chart_ExamplesProvided](https://github.com/mjrotter4445/stock-analysis/blob/main/Resources/Examples%20Provided.png)  
 
 Finally, we run the stock analysis, to confirm that our stock analysis outputs for 2017 and 2018 are the same as the data set example provided (images below from Module 2 – Dataset examples). Also, in the Resources folder you can find the pop-up messages for elapsed run time for refactored code.   These images are named 2017 run time.png and 2018 run time.png.  
 
