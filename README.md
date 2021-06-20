@@ -22,9 +22,11 @@ The advantages of refactoring code in general are 1) the ability to analyze larg
 After code was refactored, I ran the stock analysis, to confirm that our stock analysis outputs for 2017 and 2018 are the same as the data set example provided (images below from Module 2 – Dataset examples). 
 Please note: in the Resources folder you can find the pop-up messages for elapsed run time for refactored code.   These images are named 2017 run time.png and 2018 run time.png. 
 
-The end result was to look like this.    
-
+The end result was to look like this.   
 ![Chart_ExamplesProvided](https://github.com/mjrotter4445/stock-analysis/blob/main/Resources/Examples%20Provided.png)  
 
-Finally, we run the stock analysis, to confirm that our stock analysis outputs for 2017 and 2018 are the same as the data set example provided (images below from Module 2 – Dataset examples). Also, in the Resources folder you can find the pop-up messages for elapsed run time for refactored code.   These images are named 2017 run time.png and 2018 run time.png.  
+ Below we verify that our newly reconstruted script has indeed 1) matched the exmample data/result given in the assignment  2) and improved the speed of running the program.   
+ 
+ insert the end snip it here  2017 
+ insert the end new snip it here 2018
 
