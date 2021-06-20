@@ -1,4 +1,5 @@
-# An Analysis of Module 2 Code Refactoring Challenge
+# An Analysis of Module 2 Challenge Project - 
+# Code Refactoring Challenge in VBAChallenge spreadsheet
 Performing analysis on the editing & refactoring process on the Module 2 code to determine whether it can run more efficiently.  
 
 # Module 2 Refactor Project
