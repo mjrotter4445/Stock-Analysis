@@ -14,6 +14,11 @@ Analyze past successful projects to uncover trends and specific factors that con
 We started by understanding Total Daily volume and 
 Shares Traded throughout the day (measuring activity)  
 
+![chart_
+
+
+
+
 ### Analysis of Total Daily Volume
 The xx chart displays the number of xxxx throughout the months.  The conclusion is that the large majority of xx.  The next most xx.   
 ### Analysis of Shares Traded throughout the day, measures activity 
