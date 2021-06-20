@@ -1,18 +1,16 @@
- # An Analysis of Stock
-Performing analysis on Stock to uncover useful trends
-# stock-analysis
-work in process Performing analysis on              data to uncover trends
-# xxx
-## Overview of Project
-Analyze, Sort, & Organize stock Data.  Use the data to help Steve to help his parents with stock management.  Steve's parents specifically are intersted in Daqo stock with the call sign of DQ   
-### Introduction
-Thank you for your time and trust in our firm to provide a valuable service.  The challenge of fundraising for a production must be a lot of work.   Our company has tools and information to help you navigate that course to success.   
-### Purpose
-Analyze past successful projects to uncover trends and specific factors that contributed.  Provide useful visual information to Louise to help her plan her own successful campaign.  
+# An Analysis of Module 2 Code Refactoring Challenge
+Performing analysis on the editing & refactoring process on the Module 2 code to determine whether it can run more efficiently.  
 
-## Analysis and Challenges
-We started by understanding Total Daily volume and 
-Shares Traded throughout the day (measuring activity)  
+# Module 2 Refactor Project
+## Overview of the Project
+
+Refactor the Module 2 solution code & measure performance.  Determine if improvements were made and present and explain the findings.  
+### Purpose and Background 
+The purpose of our work was to use the original All Stocks Analysis VBA code and improve the performance or this tool.  We can analyze much larger sets of data more efficiently such as the entire stock market over the past few years.    
+
+## Results 
+
+Timed results before the refactoring 
 
 ![Original Run time 2017](https://github.com/mjrotter4445/stock-analysis/blob/main/Resources/2017%20run%20time%20old%20code.png)
 
