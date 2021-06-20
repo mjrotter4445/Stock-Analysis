@@ -14,8 +14,7 @@ Analyze past successful projects to uncover trends and specific factors that con
 We started by understanding Total Daily volume and 
 Shares Traded throughout the day (measuring activity)  
 
-![chart_
-
+![https://github.com/mjrotter4445/stock-analysis/blob/main/Resources/2017%20run%20time%20old%20code.png]
 
 
 
