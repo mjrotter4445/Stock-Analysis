@@ -18,7 +18,8 @@ Timed results before the refactoring.  Please note: these files can be found in 
 The end result was to look like this.   
 ![Chart_ExamplesProvided](https://github.com/mjrotter4445/stock-analysis/blob/main/Resources/Examples%20Provided.png)  
 
- Below we verify that our newly reconstruted script has indeed accomplished 1) matched the exmample data/result given in the assignment  2) and improved the speed of running the program.   
+ Below we verify that our newly reconstruted script has indeed accomplished the following goals:
+ 1) matches the example data/result given in the assignment  2) and improves the speed of running the program.   
  
  ![2017 run time refactored code](https://github.com/mjrotter4445/stock-analysis/blob/main/Resources/2017%20run%20time%20refactored%20code.png)  
  
