@@ -2,7 +2,6 @@
 Performing analysis on the editing & refactoring process on the Module 2 code to determine whether it can run more efficiently.  
 
 ## Overview of the Project
-
 Refactor the Module 2 solution code & measure performance.  Determine if improvements were made and present and explain the findings.  
 ### Purpose and Background 
 The purpose of our work was to use the original All Stocks Analysis VBA code and improve the performance or this tool.  
