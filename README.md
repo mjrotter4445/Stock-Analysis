@@ -27,6 +27,6 @@ The end result was to look like this.
 
  Below we verify that our newly reconstruted script has indeed 1) matched the exmample data/result given in the assignment  2) and improved the speed of running the program.   
  
- insert the end snip it here  2017 
- insert the end new snip it here 2018
+ ![2017 run time refactored code](hxxg)  
+ ![2018 run time refactored code](hxxg)  
 
