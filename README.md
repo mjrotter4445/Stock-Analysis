@@ -13,9 +13,9 @@ The purpose of our work was to use the original All Stocks Analysis VBA code and
 
 Timed results before the refactoring 
 
-![Original Run time 2017](https://github.com/mjrotter4445/stock-analysis/blob/main/Resources/2017%20run%20time%20old%20code.png)
+![Original Run time 2017](https://github.com/mjrotter4445/stock-analysis/blob/main/Resources/2017%20run%20time%20with%20results%20old%20code.png
 
-![Original Run time 2019](https://github.com/mjrotter4445/stock-analysis/blob/main/Resources/2018%20run%20time%20old%20code.png)
+![Original Run time 2018](https://github.com/mjrotter4445/stock-analysis/blob/main/Resources/2018%20run%20time%20old%20code.png)
 
 ## Summary 
 The advantages of refactoring code in general are 1) the ability to analyze larger data sets with speed and to better organize, clean, and maintain code.   The disadvantages of refactored code is that refactoring may run into underlying architecture issues and problems.   It takes a lot of skill and time (expense) to refactor code, especially code written by other programmers.    In this exercise, the refactored code is intended to improve the performance of this DQ Analysis program when run.   
