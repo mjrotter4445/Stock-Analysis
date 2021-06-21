@@ -29,10 +29,9 @@ The end result was to look like this.
  ![2018 run time refactored code](https://github.com/mjrotter4445/stock-analysis/blob/main/Resources/2018%20run%20time%20refactored%20code.png)  
  
  ## Summary 
-The advantages of refactoring code in general are 1) the ability to analyze larger data sets with speed and to better organize, clean, and maintain code.   
-The disadvantages of refactored code is that refactoring may run into underlying architecture issues and problems.   It takes a lot of skill and time (expense) 
-to refactor code, especially code written by other programmers.    
-In this exercise, the refactored code is intended to improve the performance of this DQ Analysis program and it did.   
-After code was refactored, I ran the stock analysis, to confirm that our stock analysis outputs for 2017 and 2018.  
-The refactored programs/macros ran significantly faster.  The processing times were approximately .4 seconds vs. .6 seconds. 
-The improvment speed is approximately 30%.  The refactored programs ran 30% faster.    
+The advantages of refactoring code in general are 1) the ability to analyze larger data sets with speed and to better organize, clean, and maintain code. The disadvantages of 
+refactored code is that refactoring may run into underlying architecture issues and problems.   It takes a lot of skill and time (expense) to refactor code, especially code 
+written by other programmers.    
+In this exercise, the refactored code is intended to improve the performance of this DQ Analysis program and it did.   After code was refactored, I ran the stock analysis,
+to confirm that our stock analysis outputs for 2017 and 2018.  The refactored programs/macros ran significantly faster. The processing times were approximately .4 seconds vs. .6 
+seconds. The improvment speed is approximately 30%.  The refactored programs ran 30% faster.    
