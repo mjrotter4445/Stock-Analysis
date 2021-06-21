@@ -26,6 +26,6 @@ The end result was to look like this.
 
  Below we verify that our newly reconstruted script has indeed 1) matched the exmample data/result given in the assignment  2) and improved the speed of running the program.   
  
- ![2017 run time refactored code](hxxg)  
+ ![2017 run time refactored code](https://github.com/mjrotter4445/stock-analysis/blob/main/Resources/2017%20run%20time%20refactored%20code.png)  
  ![2018 run time refactored code](hxxg)  
 
