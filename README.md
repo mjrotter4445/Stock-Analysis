@@ -15,7 +15,6 @@ Timed results before the refactoring
 
 ![Original 2017 run time with results old code](https://github.com/mjrotter4445/stock-analysis/blob/main/Resources/2017%20run%20time%20with%20results%20old%20code.png)
 
-
 ![Original 2018 run time with results old code](https://github.com/mjrotter4445/stock-analysis/blob/main/Resources/2018%20run%20time%20old%20code.png)
 
 ## Summary 
