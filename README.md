@@ -1,4 +1,5 @@
-# An Analysis of Module 2 Challenge Project-VBA Script Refactoring
+# An Analysis of Module 2 Challenge Project - 
+# VBA Script Refactoring
 Performing analysis on the editing & refactoring process on the Module 2 code to determine whether it can run more efficiently.  
 
 ## Overview of the Project
